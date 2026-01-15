@@ -6,3 +6,4 @@
 
 
 ➡️ **[Read full announcement](announcement.md)**
+📝 **[Registration](registration.md)**
